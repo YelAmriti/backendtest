@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorLoopFS2207", "DoorLoopFS2207\DoorLoopFS2207.csproj", "{5F6DDC32-CBD4-4BA8-BCE0-79529FFBF84F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorLoopYC2207FSCL", "DoorLoopYC2207FSCL\DoorLoopYC2207FSCL.csproj", "{3CAFD622-4013-4F88-A618-8567FDF3E7CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F6DDC32-CBD4-4BA8-BCE0-79529FFBF84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F6DDC32-CBD4-4BA8-BCE0-79529FFBF84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F6DDC32-CBD4-4BA8-BCE0-79529FFBF84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F6DDC32-CBD4-4BA8-BCE0-79529FFBF84F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CAFD622-4013-4F88-A618-8567FDF3E7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CAFD622-4013-4F88-A618-8567FDF3E7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CAFD622-4013-4F88-A618-8567FDF3E7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CAFD622-4013-4F88-A618-8567FDF3E7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47168145-58D5-4B26-B7C0-F086C9643C0D}
+	EndGlobalSection
+EndGlobal
